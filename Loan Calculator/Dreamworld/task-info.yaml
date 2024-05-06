@@ -138,4 +138,8 @@ files:
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/8003#comment
 status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Mon, 06 May 2024 22:46:24 UTC"
 record: 1
