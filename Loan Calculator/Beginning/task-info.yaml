@@ -1,16 +1,5 @@
 type: edu
 files:
-  - name: creditcalc/creditcalc.py
-    visible: true
-    text: |
-      loan_principal = 'Loan principal: 1000'
-      final_output = 'The loan has been repaid!'
-      first_month = 'Month 1: repaid 250'
-      second_month = 'Month 2: repaid 250'
-      third_month = 'Month 3: repaid 500'
-      
-      # write your code here
-    learner_created: false
   - name: test/__init__.py
     visible: false
     learner_created: false
@@ -68,4 +57,8 @@ files:
     learner_created: true
 feedback_link: https://hyperskill.org/learn/step/8002#comment
 status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Mon, 06 May 2024 22:43:06 UTC"
 record: 3
